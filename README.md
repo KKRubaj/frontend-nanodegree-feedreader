@@ -1,6 +1,6 @@
 # Project Feed Reader Testing
 
-This project using Jasmine to testing javascript application.
+This project using Jasmine 2.1.2 to testing javascript application.
 
 ## Instructions
 
